@@ -134,3 +134,32 @@ main{
   padding: 71px 150px 71px 150px;
 
 }
+/* news style */
+.news{
+  padding: 130px 230px;
+  display: flex;
+  gap: 100px;
+  text-align: center;
+}
+.newslatter{
+  width: 50%;
+  display:block;
+}
+/* footer style */
+.last{
+  text-align: center;
+}
+.footer{
+  display: inline;
+  justify-content: center;
+}
+
+ul,li{
+  list-style:none;
+  display: flex;
+  justify-content: space-evenly;
+
+}
+.footer-description, .footer-class{
+  color: #8987A1;
+}
