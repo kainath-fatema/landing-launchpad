@@ -101,6 +101,7 @@ main{
   display: flex;
   justify-content: space-evenly;
 }
+/* review styles */
 .review{
   text-align: center;
    margin-top: 137px;
@@ -117,3 +118,19 @@ main{
   justify-content:space-evenly;
   gap: 14px;
 } 
+/* focus style */
+.focus-title{
+  font-size: 50px;
+  font-weight: bold;
+  color: #000000;
+}
+.focus-img{
+  margin-top: 30px;
+}
+.better{
+  border-radius: 14px;
+  gap: 20px;
+  text-align: center;
+  padding: 71px 150px 71px 150px;
+
+}
